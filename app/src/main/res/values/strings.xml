@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Redchirp</string>
+    <string name="fcm_message" />
+    <string name="default_notification_channel_id" />
 </resources>
